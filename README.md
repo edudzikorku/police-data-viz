@@ -6,7 +6,7 @@ Link to Github Issue: [https://github.com/DSML-Research-Group/public-projects/is
 "Big Idea": We want to use a comprehensive dataset from the Chicago Police Department that identifies the spatial characteristics of crime and police force used over different neighborhoods and different locations throughout the city.  We'd like to turn this into a compelling visualization deployed over the web, as well as perform geo-spatial clustering analysis to identify novel spatial trends in crime and policing.
 
 # Helpful Links 🔗
- - Chicago Dataset: (https://openreview.net/forum?id=MAWgLrYvMs0)
+ - Link to All of the Data Files: (https://drive.google.com/drive/folders/1UpXFHClKiDL_S6lEkulFx7tGXVgLpqUs?usp=sharing)
 
 # Roadmap 🗺️
 The current roadmap is this:
