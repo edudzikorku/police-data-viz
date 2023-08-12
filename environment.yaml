@@ -1,0 +1,11 @@
+name: police_data_viz
+channels:
+  - defaults
+dependencies:
+  - python>=3.9
+  - numpy
+  - matplotlib
+  - pandas
+  - plotly
+  - scikit-learn
+  - scipy
