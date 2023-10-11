@@ -1,0 +1,706 @@
+
+
+      1. Total Population
+         Universe:  Total Population
+         Name:      T1
+         Variables:
+            T001_001:   Total Population
+
+
+      2. Population Density (per sq. mile)
+         Universe:  Total population
+         Name:      T2
+         Variables:
+            T002_001:   Total Population
+            T002_002:   Population Density (per sq. mile)
+            T002_003:   Area (Land)
+
+
+      3. Urban and Rural
+         Universe:  Total Population
+         Name:      T3
+         Variables:
+            T003_001:   Total Population:
+            T003_002:      Urban:
+            T003_003:         Inside Urbanized Areas
+            T003_004:         Inside Urban Clusters
+            T003_005:      Rural
+
+
+      4. Sex
+         Universe:  Total Population
+         Name:      T4
+         Variables:
+            T004_001:   Total Population:
+            T004_002:      Male
+            T004_003:      Female
+
+
+      5. Sex by Age
+         Universe:  Total Population
+         Name:      T5
+         Variables:
+            T005_001:   Total Population:
+            T005_002:      Male:
+            T005_003:         Under 5 Years
+            T005_004:         5 to 9 Years
+            T005_005:         10 to 14 Years
+            T005_006:         15 to 17 Years
+            T005_007:         18 to 24 Years
+            T005_008:         25 to 34 Years
+            T005_009:         35 to 44 Years
+            T005_010:         45 to 54 Years
+            T005_011:         55 to 64 Years
+            T005_012:         65 to 74 Years
+            T005_013:         75 to 84 Years
+            T005_014:         85 Years and over
+            T005_015:      Female:
+            T005_016:         Under 5 Years
+            T005_017:         5 to 9 Years
+            T005_018:         10 to 14 Years
+            T005_019:         15 to 17 Years
+            T005_020:         18 to 24 Years
+            T005_021:         25 to 34 Years
+            T005_022:         35 to 44 Years
+            T005_023:         45 to 54 Years
+            T005_024:         55 to 64 Years
+            T005_025:         65 to 74 Years
+            T005_026:         75 to 84 Years
+            T005_027:         85 Years and over
+
+
+      6. Sex by Age (Short Version)
+         Universe:  Total Population
+         Name:      T6
+         Variables:
+            T006_001:   Total Population:
+            T006_002:      Male:
+            T006_003:         Under 18 Years
+            T006_004:         18 to 34 Years
+            T006_005:         35 to 64 Years
+            T006_006:         65 and over
+            T006_007:      Female:
+            T006_008:         Under 18 Years
+            T006_009:         18 to 34 Years
+            T006_010:         35 to 64 Years
+            T006_011:         65 and over
+
+
+      7. Age
+         Universe:  Total Population
+         Name:      T7
+         Variables:
+            T007_001:   Total Population:
+            T007_002:      Under 5 Years
+            T007_003:      5 to 9 Years
+            T007_004:      10 to 14 Years
+            T007_005:      15 to 17 Years
+            T007_006:      18 to 24 Years
+            T007_007:      25 to 34 Years
+            T007_008:      35 to 44 Years
+            T007_009:      45 to 54 Years
+            T007_010:      55 to 64 Years
+            T007_011:      65 to 74 Years
+            T007_012:      75 to 84 Years
+            T007_013:      85 Years and over
+
+
+      8. Age - Cumulative (Less)
+         Universe:  Total Population
+         Name:      T7A
+         Variables:
+            T007A001:   Total Population:
+            T007A002:      Less than 5 Years
+            T007A003:      Less than 10 Years
+            T007A004:      Less than 15 Years
+            T007A005:      Less than 18 Years
+            T007A006:      Less than 25 Years
+            T007A007:      Less than 35 Years
+            T007A008:      Less than 45 Years
+            T007A009:      Less than 55 Years
+            T007A010:      Less than 65 Years
+            T007A011:      Less than 75 Years
+            T007A012:      Less than 85 Years
+
+
+      9. Age - Cumulative (More)
+         Universe:  Total Population
+         Name:      T7B
+         Variables:
+            T007B001:   Total Population:
+            T007B002:      More than 5 Years
+            T007B003:      More than 10 Years
+            T007B004:      More than 15 Years
+            T007B005:      More than 18 Years
+            T007B006:      More than 25 Years
+            T007B007:      More than 35 Years
+            T007B008:      More than 45 Years
+            T007B009:      More than 55 Years
+            T007B010:      More than 65 Years
+            T007B011:      More than 75 Years
+            T007B012:      More than 85 Years
+
+
+      10. Age (Short Version)
+          Universe:  Population
+          Name:      T8
+          Variables:
+             T008_001:   Population:
+             T008_002:      Under 18 Years
+             T008_003:      18 to 34 Years
+             T008_004:      35 to 64 Years
+             T008_005:      65 and over
+
+
+      11. Age (Detailed Version)
+          Universe:  Total population
+          Name:      T9
+          Variables:
+             T009_001:   Total Population:
+             T009_002:      Under 5 Years
+             T009_003:      5 to 9 Years
+             T009_004:      10 to 14 Years
+             T009_005:      15 to 17 Years
+             T009_006:      18 and 19 Years
+             T009_007:      20 Years
+             T009_008:      21 Years
+             T009_009:      22 to 24 Years
+             T009_010:      25 to 29 Years
+             T009_011:      30 to 34 Years
+             T009_012:      35 to 39 Years
+             T009_013:      40 to 44 Years
+             T009_014:      45 to 49 Years
+             T009_015:      50 to 54 Years
+             T009_016:      55 to 59 Years
+             T009_017:      60 and 61 Years
+             T009_018:      62 to 64 Years
+             T009_019:      65 and 66 Years
+             T009_020:      67 to 69 Years
+             T009_021:      70 to 74 Years
+             T009_022:      75 to 79 Years
+             T009_023:      80 to 84 Years
+             T009_024:      85 Years and over
+
+
+      12. Age (Detailed Version) - Cumulative (Less)
+          Universe:  Total population
+          Name:      T9A
+          Variables:
+             T009A001:   Total Population:
+             T009A002:      Less than 5 Years
+             T009A003:      Less than 10 Years
+             T009A004:      Less than 15 Years
+             T009A005:      Less than 18 Years
+             T009A006:      Less than 20 Years
+             T009A007:      Less than 21 Years
+             T009A008:      Less than 22 Years
+             T009A009:      Less than 25 Years
+             T009A010:      Less than 30 Years
+             T009A011:      Less than 35 Years
+             T009A012:      Less than 40 Years
+             T009A013:      Less than 45 Years
+             T009A014:      Less than 50 Years
+             T009A015:      Less than 55 Years
+             T009A016:      Less than 60 Years
+             T009A017:      Less than 62 Years
+             T009A018:      Less than 65 Years
+             T009A019:      Less than 67 Years
+             T009A020:      Less than 70 Years
+             T009A021:      Less than 75 Years
+             T009A022:      Less than 80 Years
+             T009A023:      Less than 85 Years
+
+
+      13. Age (Detailed Version) - Cumulative (More)
+          Universe:  Total population
+          Name:      T9B
+          Variables:
+             T009B001:   Total Population:
+             T009B002:      More than 5 Years
+             T009B003:      More than 10 Years
+             T009B004:      More than 15 Years
+             T009B005:      More than 18 Years
+             T009B006:      More than 20 Years
+             T009B007:      More than 21 Years
+             T009B008:      More than 22 Years
+             T009B009:      More than 25 Years
+             T009B010:      More than 30 Years
+             T009B011:      More than 35 Years
+             T009B012:      More than 40 Years
+             T009B013:      More than 45 Years
+             T009B014:      More than 50 Years
+             T009B015:      More than 55 Years
+             T009B016:      More than 60 Years
+             T009B017:      More than 62 Years
+             T009B018:      More than 65 Years
+             T009B019:      More than 67 Years
+             T009B020:      More than 70 Years
+             T009B021:      More than 75 Years
+             T009B022:      More than 80 Years
+             T009B023:      More than 85 Years
+
+
+      14. Age for Male Population (Short Version)
+          Universe:  Male Population
+          Name:      T10
+          Variables:
+             T010_001:   Male Population:
+             T010_002:      Under 18 Years
+             T010_003:      18 to 34 Years
+             T010_004:      35 to 64 Years
+             T010_005:      65 and over
+
+
+      15. Age for Female Population (Short Version)
+          Universe:  Female Population
+          Name:      T11
+          Variables:
+             T011_001:   Female Population:
+             T011_002:      Under 18 Years
+             T011_003:      18 to 34 Years
+             T011_004:      35 to 64 Years
+             T011_005:      65 and over
+
+
+      16. Median Age by Sex
+          Universe:  Total Population
+          Name:      NV1
+          Variables:
+             NV001_001:   Median Age:
+             NV001_002:      Male Population
+             NV001_003:      Female Population
+
+
+      17. Race
+          Universe:  Total Population
+          Name:      T12
+          Variables:
+             T012_001:   Total Population:
+             T012_002:      White Alone
+             T012_003:      Black or African American Alone
+             T012_004:      American Indian and Alaska Native Alone
+             T012_005:      Asian Alone
+             T012_006:      Native Hawaiian and Other Pacific Islander Alone
+             T012_007:      Some Other Race Alone
+             T012_008:      Two or More Races
+
+
+      18. Hispanic or Latino by Race
+          Universe:  Total Population
+          Name:      T13
+          Variables:
+             T013_001:   Total Population
+             T013_002:      Not Hispanic or Latino:
+             T013_003:         White Alone
+             T013_004:         Black or African American Alone
+             T013_005:         American Indian and Alaska Native Alone
+             T013_006:         Asian Alone
+             T013_007:         Native Hawaiian and Other Pacific Islander Alone
+             T013_008:         Some Other Race Alone
+             T013_009:         Two or More Races
+             T013_010:      Hispanic or Latino:
+             T013_011:         White Alone
+             T013_012:         Black or African American Alone
+             T013_013:         American Indian and Alaska Native Alone
+             T013_014:         Asian Alone
+             T013_015:         Native Hawaiian and Other Pacific Islander Alone
+             T013_016:         Some Other Race Alone
+             T013_017:         Two or More Races
+
+
+      19. Race (SF3)
+          Universe:  Total Population
+          Name:      T14
+          Variables:
+             T014_001:   Total Population
+             T014_002:      White Alone
+             T014_003:      Black or African American Alone
+             T014_004:      American Indian and Alaska Native Alone
+             T014_005:      Asian Alone
+             T014_006:      Native Hawaiian and Other Pacific Islander Alone
+             T014_007:      Some Other Race Alone
+             T014_008:      Two or More Races
+
+
+      20. Hispanic or Latino by Race (SF3)
+          Universe:  Total Population
+          Name:      T15
+          Variables:
+             T015_001:   Total Population
+             T015_002:      Not Hispanic or Latino:
+             T015_003:         White Alone
+             T015_004:         Black or African American Alone
+             T015_005:         American Indian and Alaska Native Alone
+             T015_006:         Asian Alone
+             T015_007:         Native Hawaiian and Other Pacific Islander Alone
+             T015_008:         Some Other Race Alone
+             T015_009:         Two or More Races
+             T015_010:      Hispanic or Latino:
+             T015_011:         White Alone
+             T015_012:         Black or African American Alone
+             T015_013:         American Indian and Alaska Native Alone
+             T015_014:         Asian Alone
+             T015_015:         Native Hawaiian and Other Pacific Islander Alone
+             T015_016:         Some Other Race Alone
+             T015_017:         Two or More Races
+
+
+      21. Hispanic or Latino by Specific Origin
+          Universe:  Total population
+          Name:      T16
+          Variables:
+             T016_001:   Total Population
+             T016_002:      Not Hispanic or Latino
+             T016_003:      Hispanic or Latino:
+             T016_004:         Mexican
+             T016_005:         Puerto Rican
+             T016_006:         Cuban
+             T016_007:         Dominican Republic
+             T016_008:         Central American:
+             T016_009:            Costa Rican
+             T016_010:            Guatemalan
+             T016_011:            Honduran
+             T016_012:            Nicaraguan
+             T016_013:            Panamanian
+             T016_014:            Salvadoran
+             T016_015:            Other Central American
+             T016_016:         South American:
+             T016_017:            Argentinean
+             T016_018:            Bolivian
+             T016_019:            Chilean
+             T016_020:            Colombian
+             T016_021:            Ecuadorian
+             T016_022:            Paraguayan
+             T016_023:            Peruvian
+             T016_024:            Uruguayan
+             T016_025:            Venezuelan
+             T016_026:            Other South American
+             T016_027:         Other Hispanic or Latino:
+             T016_028:            Spaniard
+             T016_029:            Spanish
+             T016_030:            Spanish American
+             T016_031:            All Other Hispanic or Latino
+
+
+      22. Asian by Specific Origin (Asian with One Asian Category for Selected Groups)
+          Universe:  Total Asian categories tallied for people with one Asian category only and people with no specific Asian category reported
+          Name:      T17
+          Variables:
+             T017_001:   Total Asian with One Asian Category Only
+             T017_002:      Asian Indian
+             T017_003:      Bangladeshi
+             T017_004:      Cambodian
+             T017_005:      Chinese, Except Taiwanese
+             T017_006:      Filipino
+             T017_007:      Hmong
+             T017_008:      Indonesian
+             T017_009:      Japanese
+             T017_010:      Korean
+             T017_011:      Laotian
+             T017_012:      Malaysian
+             T017_013:      Pakistani
+             T017_014:      Sri Lankan
+             T017_015:      Taiwanese
+             T017_016:      Thai
+             T017_017:      Vietnamese
+             T017_018:      Other Asian
+             T017_019:      Other Asian, not Specified
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      NAME:           Name of Area
+      QName:          Qualifying Name
+      NATION:         Nation
+      STATE:          State
+      COUNTY:         County
+      CT:             Census Tract
+      T001_001:       Total Population
+      T002_001:       Total Population
+      T002_002:       Population Density (per sq. mile)
+      T002_003:       Area (Land)
+      T003_001:       Total Population
+      T003_002:       Urban
+      T003_003:       Urban: Inside Urbanized Areas
+      T003_004:       Urban: Inside Urban Clusters
+      T003_005:       Rural
+      T004_001:       Total Population
+      T004_002:       Male
+      T004_003:       Female
+      T005_001:       Total Population
+      T005_002:       Male
+      T005_003:       Male: Under 5 Years
+      T005_004:       Male: 5 to 9 Years
+      T005_005:       Male: 10 to 14 Years
+      T005_006:       Male: 15 to 17 Years
+      T005_007:       Male: 18 to 24 Years
+      T005_008:       Male: 25 to 34 Years
+      T005_009:       Male: 35 to 44 Years
+      T005_010:       Male: 45 to 54 Years
+      T005_011:       Male: 55 to 64 Years
+      T005_012:       Male: 65 to 74 Years
+      T005_013:       Male: 75 to 84 Years
+      T005_014:       Male: 85 Years and over
+      T005_015:       Female
+      T005_016:       Female: Under 5 Years
+      T005_017:       Female: 5 to 9 Years
+      T005_018:       Female: 10 to 14 Years
+      T005_019:       Female: 15 to 17 Years
+      T005_020:       Female: 18 to 24 Years
+      T005_021:       Female: 25 to 34 Years
+      T005_022:       Female: 35 to 44 Years
+      T005_023:       Female: 45 to 54 Years
+      T005_024:       Female: 55 to 64 Years
+      T005_025:       Female: 65 to 74 Years
+      T005_026:       Female: 75 to 84 Years
+      T005_027:       Female: 85 Years and over
+      T006_001:       Total Population
+      T006_002:       Male
+      T006_003:       Male: Under 18 Years
+      T006_004:       Male: 18 to 34 Years
+      T006_005:       Male: 35 to 64 Years
+      T006_006:       Male: 65 and over
+      T006_007:       Female
+      T006_008:       Female: Under 18 Years
+      T006_009:       Female: 18 to 34 Years
+      T006_010:       Female: 35 to 64 Years
+      T006_011:       Female: 65 and over
+      T007_001:       Total Population
+      T007_002:       Under 5 Years
+      T007_003:       5 to 9 Years
+      T007_004:       10 to 14 Years
+      T007_005:       15 to 17 Years
+      T007_006:       18 to 24 Years
+      T007_007:       25 to 34 Years
+      T007_008:       35 to 44 Years
+      T007_009:       45 to 54 Years
+      T007_010:       55 to 64 Years
+      T007_011:       65 to 74 Years
+      T007_012:       75 to 84 Years
+      T007_013:       85 Years and over
+      T007A001:       Total Population
+      T007A002:       Less than 5 Years
+      T007A003:       Less than 10 Years
+      T007A004:       Less than 15 Years
+      T007A005:       Less than 18 Years
+      T007A006:       Less than 25 Years
+      T007A007:       Less than 35 Years
+      T007A008:       Less than 45 Years
+      T007A009:       Less than 55 Years
+      T007A010:       Less than 65 Years
+      T007A011:       Less than 75 Years
+      T007A012:       Less than 85 Years
+      T007B001:       Total Population
+      T007B002:       More than 5 Years
+      T007B003:       More than 10 Years
+      T007B004:       More than 15 Years
+      T007B005:       More than 18 Years
+      T007B006:       More than 25 Years
+      T007B007:       More than 35 Years
+      T007B008:       More than 45 Years
+      T007B009:       More than 55 Years
+      T007B010:       More than 65 Years
+      T007B011:       More than 75 Years
+      T007B012:       More than 85 Years
+      T008_001:       Population
+      T008_002:       Under 18 Years
+      T008_003:       18 to 34 Years
+      T008_004:       35 to 64 Years
+      T008_005:       65 and over
+      T009_001:       Total Population
+      T009_002:       Under 5 Years
+      T009_003:       5 to 9 Years
+      T009_004:       10 to 14 Years
+      T009_005:       15 to 17 Years
+      T009_006:       18 and 19 Years
+      T009_007:       20 Years
+      T009_008:       21 Years
+      T009_009:       22 to 24 Years
+      T009_010:       25 to 29 Years
+      T009_011:       30 to 34 Years
+      T009_012:       35 to 39 Years
+      T009_013:       40 to 44 Years
+      T009_014:       45 to 49 Years
+      T009_015:       50 to 54 Years
+      T009_016:       55 to 59 Years
+      T009_017:       60 and 61 Years
+      T009_018:       62 to 64 Years
+      T009_019:       65 and 66 Years
+      T009_020:       67 to 69 Years
+      T009_021:       70 to 74 Years
+      T009_022:       75 to 79 Years
+      T009_023:       80 to 84 Years
+      T009_024:       85 Years and over
+      T009A001:       Total Population
+      T009A002:       Less than 5 Years
+      T009A003:       Less than 10 Years
+      T009A004:       Less than 15 Years
+      T009A005:       Less than 18 Years
+      T009A006:       Less than 20 Years
+      T009A007:       Less than 21 Years
+      T009A008:       Less than 22 Years
+      T009A009:       Less than 25 Years
+      T009A010:       Less than 30 Years
+      T009A011:       Less than 35 Years
+      T009A012:       Less than 40 Years
+      T009A013:       Less than 45 Years
+      T009A014:       Less than 50 Years
+      T009A015:       Less than 55 Years
+      T009A016:       Less than 60 Years
+      T009A017:       Less than 62 Years
+      T009A018:       Less than 65 Years
+      T009A019:       Less than 67 Years
+      T009A020:       Less than 70 Years
+      T009A021:       Less than 75 Years
+      T009A022:       Less than 80 Years
+      T009A023:       Less than 85 Years
+      T009B001:       Total Population
+      T009B002:       More than 5 Years
+      T009B003:       More than 10 Years
+      T009B004:       More than 15 Years
+      T009B005:       More than 18 Years
+      T009B006:       More than 20 Years
+      T009B007:       More than 21 Years
+      T009B008:       More than 22 Years
+      T009B009:       More than 25 Years
+      T009B010:       More than 30 Years
+      T009B011:       More than 35 Years
+      T009B012:       More than 40 Years
+      T009B013:       More than 45 Years
+      T009B014:       More than 50 Years
+      T009B015:       More than 55 Years
+      T009B016:       More than 60 Years
+      T009B017:       More than 62 Years
+      T009B018:       More than 65 Years
+      T009B019:       More than 67 Years
+      T009B020:       More than 70 Years
+      T009B021:       More than 75 Years
+      T009B022:       More than 80 Years
+      T009B023:       More than 85 Years
+      T010_001:       Male Population
+      T010_002:       Male: Under 18 Years
+      T010_003:       Male: 18 to 34 Years
+      T010_004:       Male: 35 to 64 Years
+      T010_005:       Male: 65 and over
+      T011_001:       Female Population
+      T011_002:       Female: Under 18 Years
+      T011_003:       Female: 18 to 34 Years
+      T011_004:       Female: 35 to 64 Years
+      T011_005:       Female: 65 and over
+      NV001_001:      Median Age
+      NV001_002:      Median Age: Male Population
+      NV001_003:      Median Age: Female Population
+      T012_001:       Total Population
+      T012_002:       White Alone
+      T012_003:       Black or African American Alone
+      T012_004:       American Indian and Alaska Native Alone
+      T012_005:       Asian Alone
+      T012_006:       Native Hawaiian and Other Pacific Islander Alone
+      T012_007:       Some Other Race Alone
+      T012_008:       Two or More Races
+      T013_001:       Total Population
+      T013_002:       Not Hispanic or Latino
+      T013_003:       Not Hispanic or Latino: White Alone
+      T013_004:       Not Hispanic or Latino: Black or African American Alone
+      T013_005:       Not Hispanic or Latino: American Indian and Alaska Native Alone
+      T013_006:       Not Hispanic or Latino: Asian Alone
+      T013_007:       Not Hispanic or Latino: Native Hawaiian and Other Pacific Islander Alone
+      T013_008:       Not Hispanic or Latino: Some Other Race Alone
+      T013_009:       Not Hispanic or Latino: Two or More Races
+      T013_010:       Hispanic or Latino
+      T013_011:       Hispanic or Latino: White Alone
+      T013_012:       Hispanic or Latino: Black or African American Alone
+      T013_013:       Hispanic or Latino: American Indian and Alaska Native Alone
+      T013_014:       Hispanic or Latino: Asian Alone
+      T013_015:       Hispanic or Latino: Native Hawaiian and Other Pacific Islander Alone
+      T013_016:       Hispanic or Latino: Some Other Race Alone
+      T013_017:       Hispanic or Latino: Two or More Races
+      T014_001:       Total Population
+      T014_002:       White Alone
+      T014_003:       Black or African American Alone
+      T014_004:       American Indian and Alaska Native Alone
+      T014_005:       Asian Alone
+      T014_006:       Native Hawaiian and Other Pacific Islander Alone
+      T014_007:       Some Other Race Alone
+      T014_008:       Two or More Races
+      T015_001:       Total Population
+      T015_002:       Not Hispanic or Latino
+      T015_003:       Not Hispanic or Latino: White Alone
+      T015_004:       Not Hispanic or Latino: Black or African American Alone
+      T015_005:       Not Hispanic or Latino: American Indian and Alaska Native Alone
+      T015_006:       Not Hispanic or Latino: Asian Alone
+      T015_007:       Not Hispanic or Latino: Native Hawaiian and Other Pacific Islander Alone
+      T015_008:       Not Hispanic or Latino: Some Other Race Alone
+      T015_009:       Not Hispanic or Latino: Two or More Races
+      T015_010:       Hispanic or Latino
+      T015_011:       Hispanic or Latino: White Alone
+      T015_012:       Hispanic or Latino: Black or African American Alone
+      T015_013:       Hispanic or Latino: American Indian and Alaska Native Alone
+      T015_014:       Hispanic or Latino: Asian Alone
+      T015_015:       Hispanic or Latino: Native Hawaiian and Other Pacific Islander Alone
+      T015_016:       Hispanic or Latino: Some Other Race Alone
+      T015_017:       Hispanic or Latino: Two or More Races
+      T016_001:       Total Population
+      T016_002:       Not Hispanic or Latino
+      T016_003:       Hispanic or Latino
+      T016_004:       Hispanic or Latino: Mexican
+      T016_005:       Hispanic or Latino: Puerto Rican
+      T016_006:       Hispanic or Latino: Cuban
+      T016_007:       Hispanic or Latino: Dominican Republic
+      T016_008:       Hispanic or Latino: Central American
+      T016_009:       Hispanic or Latino: Central American: Costa Rican
+      T016_010:       Hispanic or Latino: Central American: Guatemalan
+      T016_011:       Hispanic or Latino: Central American: Honduran
+      T016_012:       Hispanic or Latino: Central American: Nicaraguan
+      T016_013:       Hispanic or Latino: Central American: Panamanian
+      T016_014:       Hispanic or Latino: Central American: Salvadoran
+      T016_015:       Hispanic or Latino: Central American: Other Central American
+      T016_016:       Hispanic or Latino: South American
+      T016_017:       Hispanic or Latino: South American: Argentinean
+      T016_018:       Hispanic or Latino: South American: Bolivian
+      T016_019:       Hispanic or Latino: South American: Chilean
+      T016_020:       Hispanic or Latino: South American: Colombian
+      T016_021:       Hispanic or Latino: South American: Ecuadorian
+      T016_022:       Hispanic or Latino: South American: Paraguayan
+      T016_023:       Hispanic or Latino: South American: Peruvian
+      T016_024:       Hispanic or Latino: South American: Uruguayan
+      T016_025:       Hispanic or Latino: South American: Venezuelan
+      T016_026:       Hispanic or Latino: South American: Other South American
+      T016_027:       Hispanic or Latino: Other Hispanic or Latino
+      T016_028:       Hispanic or Latino: Other Hispanic or Latino: Spaniard
+      T016_029:       Hispanic or Latino: Other Hispanic or Latino: Spanish
+      T016_030:       Hispanic or Latino: Other Hispanic or Latino: Spanish American
+      T016_031:       Hispanic or Latino: Other Hispanic or Latino: All Other Hispanic or Latino
+      T017_001:       Total Asian with One Asian Category Only
+      T017_002:       Asian Indian
+      T017_003:       Bangladeshi
+      T017_004:       Cambodian
+      T017_005:       Chinese, Except Taiwanese
+      T017_006:       Filipino
+      T017_007:       Hmong
+      T017_008:       Indonesian
+      T017_009:       Japanese
+      T017_010:       Korean
+      T017_011:       Laotian
+      T017_012:       Malaysian
+      T017_013:       Pakistani
+      T017_014:       Sri Lankan
+      T017_015:       Taiwanese
+      T017_016:       Thai
+      T017_017:       Vietnamese
+      T017_018:       Other Asian
+      T017_019:       Other Asian, not Specified
+
+
+
+
